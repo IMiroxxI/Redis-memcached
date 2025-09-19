@@ -28,7 +28,7 @@ sudo apt-get install memcached
 ```
 Проверка статуса memcached
 ```
-sudo systemctl status memcache
+sudo systemctl status memcached
 ```
 ![1](https://github.com/IMiroxxI/redis-memcached/blob/main/1/1.jpg)
 
